@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="104163" started-at="2021-12-23T14:53:34 IST" finished-at="2021-12-23T14:55:19 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="104163" started-at="2021-12-23T14:53:34 IST" finished-at="2021-12-23T14:55:19 IST">
+      <class name="com.test.robot.TestRobotClass">
+        <test-method status="PASS" signature="RobotClassKeyboardActions()[pri:1, instance:com.test.robot.TestRobotClass@7f9fc8bd]" name="RobotClassKeyboardActions" duration-ms="56898" started-at="2021-12-23T14:53:35 IST" description="First TestCase" finished-at="2021-12-23T14:54:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RobotClassKeyboardActions -->
+        <test-method status="PASS" signature="MouseActions()[pri:2, instance:com.test.robot.TestRobotClass@7f9fc8bd]" name="MouseActions" duration-ms="22579" started-at="2021-12-23T14:54:31 IST" description="Second TestCase" finished-at="2021-12-23T14:54:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MouseActions -->
+        <test-method status="PASS" signature="MouseScrollActions()[pri:3, instance:com.test.robot.TestRobotClass@7f9fc8bd]" name="MouseScrollActions" duration-ms="24617" started-at="2021-12-23T14:54:54 IST" description="Third TestCase" finished-at="2021-12-23T14:55:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MouseScrollActions -->
+      </class> <!-- com.test.robot.TestRobotClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite name="Suite (1)" duration-ms="41006" started-at="2021-12-23T14:55:56 IST" finished-at="2021-12-23T14:56:37 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="41006" started-at="2021-12-23T14:55:56 IST" finished-at="2021-12-23T14:56:37 IST">
+      <class name="com.test.autoit.TestAutoIT">
+        <test-method status="PASS" signature="UploadFile()[pri:0, instance:com.test.autoit.TestAutoIT@443faa85]" name="UploadFile" duration-ms="41003" started-at="2021-12-23T14:55:56 IST" finished-at="2021-12-23T14:56:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UploadFile -->
+      </class> <!-- com.test.autoit.TestAutoIT -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (1) -->
+  <suite name="Suite (0)" duration-ms="37334" started-at="2021-12-23T14:55:19 IST" finished-at="2021-12-23T14:55:56 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37334" started-at="2021-12-23T14:55:19 IST" finished-at="2021-12-23T14:55:56 IST">
+      <class name="com.test.javascriptexecutor.TestJavascriptExecutor">
+        <test-method status="PASS" signature="JavaScriptLogin()[pri:1, instance:com.test.javascriptexecutor.TestJavascriptExecutor@5d1e0fbb]" name="JavaScriptLogin" duration-ms="22029" started-at="2021-12-23T14:55:19 IST" description="First Test Case" finished-at="2021-12-23T14:55:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaScriptLogin -->
+        <test-method status="PASS" signature="JavaScriptScroll()[pri:2, instance:com.test.javascriptexecutor.TestJavascriptExecutor@5d1e0fbb]" name="JavaScriptScroll" duration-ms="15304" started-at="2021-12-23T14:55:41 IST" description="Second Test Case" finished-at="2021-12-23T14:55:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaScriptScroll -->
+      </class> <!-- com.test.javascriptexecutor.TestJavascriptExecutor -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
